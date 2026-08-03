@@ -1,0 +1,26 @@
+h1{
+color:#red;
+font-size:  40px; 
+font-family: serif;
+background-color: #ddd;
+width: 500px;
+height: 80px;
+}
+
+p {
+  color: #ea8339;
+  /* 文字の大きさを20pxにしてください */
+  font-size:20px;
+  
+  .selected{
+    color: red;
+  }
+  /* 文字の種類を"Lucida Grande"にしてください */
+  font-family:"Lucida Grande";
+  background-color: azure;
+}
+
+img{
+width: 500px;
+height: 200px;
+}
